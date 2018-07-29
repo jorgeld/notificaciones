@@ -229,7 +229,7 @@
         <!-- BOTONERA INFERIOR MODAL -->
         <div class="modal-footer">
           <button type="button" class="btn btn-danger" data-dismiss="modal"><i class="fas fa-times"></i>Cerrar</button>
-          <button type="button" data-dismiss="modal" v-on:click="guardarCambios()" class="btn btn-secondary"><i class="fas fa-save"></i>Guardar cambios</button>
+          <button type="button" data-dismiss="modal" v-on:click="guardarCambios()" class="btn btn-secondary"><i class="fas fa-save"></i>Guardar nuevo contacto</button>
         </div>
 
 

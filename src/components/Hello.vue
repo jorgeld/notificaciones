@@ -17,8 +17,8 @@
         </div>
 
         <div  style="padding: 16px">
-          <h1 class="display-3"> Portal creación CNMC</h1>
-          <p class="lead">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer consequat.</p>
+          <h1 class="display-3">Gestión de contactos notificables</h1>
+          <!--<p class="lead">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer consequat.</p>-->
         </div>
 
       </div>

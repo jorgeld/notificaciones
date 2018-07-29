@@ -32,8 +32,8 @@
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style>
   nav.navbar.navbar-expand-lg{
+    position: fixed;
     background-color: transparent;
-    color: white;
   }
 
 
